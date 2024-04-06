@@ -1,4 +1,4 @@
-# Revolut-Phishing-Page
+# Revolut-Phishing-Page by 1zu0
 The Responsive Phishing Page for Revolut 2024
 
 1. Change the ending of the file "hwto" to .txt and read...
